@@ -1,0 +1,4 @@
+plan_code,plan_name,monthly_fee,data_limit_gb,validity_days
+PLAN_A,Month-to-Month,66.4,10,30
+PLAN_B,One Year Contract,65.05,30,365
+PLAN_C,Two Year Contract,60.77,60,730
