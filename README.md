@@ -73,9 +73,9 @@ Sources → Staging (STG) → Data Vault (Hubs, Links, Satellites) → Business 
 * `HUB_CALL`
 * `HUB_TOWER`
 
-✔ Hash Keys (MD5)
-✔ Insert-only pattern
-✔ Source tracking (`rec_src`)
+Hash Keys (MD5)
+Insert-only pattern
+Source tracking (`rec_src`)
 
 ---
 
@@ -86,8 +86,8 @@ Sources → Staging (STG) → Data Vault (Hubs, Links, Satellites) → Business 
 * `LINK_PAYMENT_CUSTOMER`
 * `LINK_CALL_CUSTOMER_TOWER`
 
-✔ Relationship modeling
-✔ No descriptive data
+ Relationship modeling
+No descriptive data
 
 ---
 
@@ -98,9 +98,9 @@ Sources → Staging (STG) → Data Vault (Hubs, Links, Satellites) → Business 
 * `SAT_COMPLAINT_DETAILS`
 * `SAT_PAYMENT_DETAILS`
 
-✔ Historical tracking
-✔ Change detection using **hashdiff**
-✔ Insert-only versioning
+ Historical tracking
+ Change detection using **hashdiff**
+ Insert-only versioning
 
 ---
 
@@ -176,7 +176,5 @@ Sources → Staging (STG) → Data Vault (Hubs, Links, Satellites) → Business 
 
 ---
 
-
-* GitHub: *(add your link)*
 
 ---
