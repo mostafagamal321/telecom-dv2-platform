@@ -77,6 +77,12 @@ Hash Keys (MD5)
 Insert-only pattern
 Source tracking (`rec_src`)
 
+<img width="1734" height="495" alt="hup_plan" src="https://github.com/user-attachments/assets/e5682f15-f4a2-48dd-af7e-d59be2fe1fb1" />
+<img width="1727" height="495" alt="hup_payment" src="https://github.com/user-attachments/assets/0f7b1885-67c2-45df-ba11-0113b1de1abe" />
+<img width="1727" height="495" alt="hup_payment" src="https://github.com/user-attachments/assets/82273151-c1e9-45f6-96d8-a15f87147ea1" />
+
+
+
 ---
 
 #### Links
@@ -88,6 +94,10 @@ Source tracking (`rec_src`)
 
  Relationship modeling
 No descriptive data
+<img width="1734" height="498" alt="link_call_cust" src="https://github.com/user-attachments/assets/7988bc3d-ab5a-4eed-b226-34500024ac78" />
+<img width="1736" height="507" alt="link_pay_cust" src="https://github.com/user-attachments/assets/a33329fe-45f1-427c-8e11-c86685b5f78c" />
+
+
 
 ---
 
@@ -101,6 +111,11 @@ No descriptive data
  Historical tracking
  Change detection using **hashdiff**
  Insert-only versioning
+ <img width="1731" height="498" alt="sat_plan" src="https://github.com/user-attachments/assets/1cee3118-d812-4f2d-b558-6d9ccd41985e" />
+ <img width="1732" height="494" alt="sat_paym" src="https://github.com/user-attachments/assets/ece6e37e-933b-4360-b21d-c01b5a095a6e" />
+
+
+ 
 
 ---
 
@@ -175,6 +190,12 @@ No descriptive data
 * Delivered analytical insights for business decision-making
 
 ---
+## Workflows - job scheduling : 
+<img width="1195" height="316" alt="workflow" src="https://github.com/user-attachments/assets/c7741638-045c-4185-b309-624bee893a4c" />
+
+<img width="1048" height="503" alt="workflow_2" src="https://github.com/user-attachments/assets/42a53bc3-8145-4f64-b9bc-ea6a895dac53" />
+<img width="924" height="424" alt="workflow_01" src="https://github.com/user-attachments/assets/fc990883-2b27-4b0e-9e31-af006ef3e165" />
+
 
 
 ---
