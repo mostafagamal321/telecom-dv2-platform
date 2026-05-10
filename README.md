@@ -6,7 +6,11 @@ This project demonstrates the design and implementation of a **Telecom Data Ware
 It integrates multiple telecom data sources and builds scalable ETL pipelines to enable historical tracking, analytics, and business insights.
 
 ---
+---
+## dashboards 
+<img width="2075" height="1200" alt="Telecom Data Analytics DashBoard_page-0001" src="https://github.com/user-attachments/assets/6730b8cf-e13d-4c73-9cc1-f4a8ff9f3b99" />
 
+---
 ##  Architecture
 
 The solution follows a layered architecture:
