@@ -200,6 +200,7 @@ No descriptive data
 ---
 ## Workflows - job scheduling : 
 <img width="1195" height="316" alt="workflow" src="https://github.com/user-attachments/assets/c7741638-045c-4185-b309-624bee893a4c" />
+<img width="981" height="615" alt="Parellel_Task_Flow" src="https://github.com/user-attachments/assets/84d1a82f-7c06-4dde-83a1-c56069aad505" />
 
 <img width="1048" height="503" alt="workflow_2" src="https://github.com/user-attachments/assets/42a53bc3-8145-4f64-b9bc-ea6a895dac53" />
 <img width="924" height="424" alt="workflow_01" src="https://github.com/user-attachments/assets/fc990883-2b27-4b0e-9e31-af006ef3e165" />
