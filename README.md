@@ -33,7 +33,10 @@ Sources → Staging (STG) → Data Vault (Hubs, Links, Satellites) → Business 
 <img width="2818" height="1537" alt="Raw_Vault_conceputal_diagram" src="https://github.com/user-attachments/assets/e68017fb-701c-440e-87f3-8053801c1851" />
 
 ---
+## Business Mart Design
+<img width="1599" height="912" alt="telecom_info_mart" src="https://github.com/user-attachments/assets/adebca81-a091-4cef-b66c-acd97f1a1c3a" />
 
+---
 ##  Data Sources
 
 | Source     | Description          |
