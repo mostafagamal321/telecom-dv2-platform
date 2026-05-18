@@ -11,6 +11,10 @@ It integrates multiple telecom data sources and builds scalable ETL pipelines to
 <img width="2075" height="1200" alt="Telecom Data Analytics DashBoard_page-0001" src="https://github.com/user-attachments/assets/6730b8cf-e13d-4c73-9cc1-f4a8ff9f3b99" />
 
 ---
+## Final Task Flow 
+<img width="981" height="615" alt="Parellel_Task_Flow" src="https://github.com/user-attachments/assets/6d79fdae-e359-428f-b954-24cf1e10d80b" />
+
+---
 ##  Architecture
 
 The solution follows a layered architecture:
