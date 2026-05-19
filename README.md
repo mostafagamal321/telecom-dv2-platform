@@ -29,7 +29,7 @@ Sources → Staging (STG) → Data Vault (Hubs, Links, Satellites) → Business 
 * **Links** → Represent relationships between entities
 * **Satellites** → Store descriptive attributes with full history tracking
 ---
----
+
 
 ##  Key Features
 
