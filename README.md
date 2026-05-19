@@ -1,4 +1,4 @@
-<img width="1310" height="737" alt="image" src="https://github.com/user-attachments/assets/6cabf24b-9823-4e57-b6db-9b846ddfe90c" />#  Telecom Analytics Platform — Data Vault 
+#  Telecom Analytics Platform — Data Vault 
 
 ##  Overview
 
