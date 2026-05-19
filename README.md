@@ -1,4 +1,4 @@
-#  Telecom Analytics Platform — Data Vault 
+<img width="1310" height="737" alt="image" src="https://github.com/user-attachments/assets/6cabf24b-9823-4e57-b6db-9b846ddfe90c" />#  Telecom Analytics Platform — Data Vault 
 
 ##  Overview
 
@@ -8,7 +8,7 @@ It integrates multiple telecom data sources and builds scalable ETL pipelines to
 ---
 
 ## dashboard 
-<img width="2075" height="1200" alt="Telecom Data Analytics DashBoard_page-0001" src="https://github.com/user-attachments/assets/6730b8cf-e13d-4c73-9cc1-f4a8ff9f3b99" />
+<img width="1310" height="737" alt="Screenshot 2026-05-19 220407" src="https://github.com/user-attachments/assets/23639b4a-90bf-4f4b-8c6e-383fe03e0001" />
 
 ---
 ## Final Task Flow 
