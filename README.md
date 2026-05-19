@@ -29,6 +29,19 @@ Sources → Staging (STG) → Data Vault (Hubs, Links, Satellites) → Business 
 * **Links** → Represent relationships between entities
 * **Satellites** → Store descriptive attributes with full history tracking
 ---
+---
+
+##  Key Features
+
+*  Scalable Data Vault 2.0 architecture
+*  End-to-end ETL pipeline using Informatica Cloud
+*  Full historical tracking (Slowly Changing Data)
+*  Data quality layer with reject handling
+*  Multi-source data integration
+*  Business-ready analytics
+
+---
+
 ## Raw Vault Design
 <img width="2818" height="1537" alt="Raw_Vault_conceputal_diagram" src="https://github.com/user-attachments/assets/e68017fb-701c-440e-87f3-8053801c1851" />
 
@@ -171,16 +184,8 @@ No descriptive data
 
 ---
 
-##  Key Features
 
-*  Scalable Data Vault 2.0 architecture
-*  End-to-end ETL pipeline using Informatica Cloud
-*  Full historical tracking (Slowly Changing Data)
-*  Data quality layer with reject handling
-*  Multi-source data integration
-*  Business-ready analytics
 
----
 
 ##  How to Run
 
