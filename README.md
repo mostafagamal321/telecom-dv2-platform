@@ -1,5 +1,10 @@
 #  Telecom Analytics Platform — Data Vault 
 ![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-red)
+![Data Vault](https://img.shields.io/badge/Model-Data%20Vault%202.0-blue)
+![Informatica](https://img.shields.io/badge/ETL-Informatica%20IICS-orange)
+![Power BI](https://img.shields.io/badge/BI-Power%20BI-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 
 ##  Overview
 
