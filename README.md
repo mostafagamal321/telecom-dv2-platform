@@ -1,4 +1,5 @@
 #  Telecom Analytics Platform — Data Vault 
+![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-red)
 
 ##  Overview
 
