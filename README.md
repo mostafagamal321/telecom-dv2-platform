@@ -21,6 +21,19 @@ It integrates multiple telecom data sources and builds scalable ETL pipelines to
 <img width="981" height="615" alt="Parellel_Task_Flow" src="https://github.com/user-attachments/assets/6d79fdae-e359-428f-b954-24cf1e10d80b" />
 
 ---
+
+## Business Problem
+
+Telecom companies generate large amounts of data from many operational systems. This data is often scattered across CRM systems, billing systems, call records, complaints, network towers, and customer device records.
+
+The goal of this project is to build a structured analytics platform that can answer important business questions such as:
+
+- Which customers are at high risk of churn?
+- Which plans generate the highest revenue?
+- Which regions or towers have the highest complaint volume?
+- How do customers behave in terms of payments and call activity?
+- How can telecom data be historized and prepared for reliable BI reporting?
+---
 ##  Architecture
 
 The solution follows a layered architecture:
